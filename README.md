@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Junior Programmer
-
-* 🌍  I'm based in Bangkok , Thailand
+* 🌍  Bangkok , Thailand
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/MrThanakrittt)
 * ✉️  You can contact me at [thanakritcharoenchinnapat@gmail.com](mailto:thanakritcharoenchinnapat@gmail.com)
 
