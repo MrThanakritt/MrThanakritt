@@ -1,10 +1,10 @@
-#My name is Thankrit Charoenchinnpat
+My name is Thankrit Charoenchinnpat
 ================================================================================================================================================
 
 Student - Taweethapisek School
 ------------------------------
 
-* 🖥️  See my portfolio at [MyPortfolio](http://my)
+* 🖥️  See my portfolio at [MyPortfolio](https://mr-thanakrit-portfolio-snowy.vercel.app/)
 * ✉️  You can contact me at [thanakritcharoenchinnapat@gmail.com](mailto:thanakritcharoenchinnapat@gmail.com)
 
 ### Skills
