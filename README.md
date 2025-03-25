@@ -11,8 +11,6 @@
 
 ###
 
-<img align="left" height="145" src=""  />
-
 ###
 
 <br clear="both">
