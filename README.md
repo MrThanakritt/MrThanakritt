@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MrThanakritt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrThanakritt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -9,9 +11,11 @@
 
 ###
 
-<img align="left" height="145" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="145" src=""  />
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -47,6 +51,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -57,6 +63,5 @@
 
 ###
 
-<br clear="both">
 
 ###
