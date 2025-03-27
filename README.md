@@ -1,4 +1,4 @@
-<h2 align="left">👋Thanakrit Charoenchinnapat - Student Taweethapisek School</h2>
+<h2 align="left">👋Thanakrit Charoenchinnapat - Student - Taweethapisek School</h2>
 
 ###
 
